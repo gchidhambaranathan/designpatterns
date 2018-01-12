@@ -1,7 +1,7 @@
 package structural.decorator;
 
-public class SportsCar extends CarDecorator {
-    public SportsCar(Car car) {
+public class SportsCarDecorator extends CarDecorator {
+    public SportsCarDecorator(Car car) {
         super(car);
     }
 
