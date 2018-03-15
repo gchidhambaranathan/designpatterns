@@ -1,4 +1,4 @@
-package creational.behaviorial.singleton;
+package creational.singleton;
 
 public class EgerSingleton {
 
